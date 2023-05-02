@@ -1,10 +1,9 @@
-##Jasur
+## Jasur
 
-####Frontend developer
+#### Frontend DEV
 
-######Skills
+###### Skills
 
 * HTML
 * CSS
 * JS 
-bi
